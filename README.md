@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrewdetorres&label=Profile%20views&color=0e75b6&style=flat" alt="andrewdetorres" /> </p>
 
-- 🔭 I’m currently working on [My own portfolio](Andrewdetorres.com)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/andythedeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="andythedeveloper" height="30" width="40" /></a>
